@@ -16,4 +16,4 @@ Backend developer and infrastructure tinkerer. I build things end-to-end — fro
 ### 📫 Connect
 
 - 🌐 [abhishek.gitdeploy.online](https://abhishek.gitdeploy.online)
-- 💼 [linkedin.com/in/abhishek-chaurasiya-501547224](https://linkedin.com/in/abhishekabck)
+- 💼 [linkedin.com/in/abhishekabck](https://linkedin.com/in/abhishekabck)
